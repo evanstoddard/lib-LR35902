@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.includePath": [
+        "./include"
+    ],
+    "files.associations": {
+        "cpu_lr35902.h": "c"
+    }
+}
